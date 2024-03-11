@@ -1,0 +1,341 @@
+.author {
+  display: block;
+  font-family: "Times New Roman", serif;
+  font-size: 1em;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 2em;
+  text-align: center;
+}
+.author1 {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  margin-bottom: 12em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+}
+.calibre {
+  display: block;
+  font-size: 1.29167em;
+  line-height: 1.2;
+  margin-bottom: 0;
+  margin-left: 5pt;
+  margin-right: 5pt;
+  margin-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: center;
+}
+.calibre1 {
+  display: block;
+}
+.calibre2 {
+  text-decoration: none;
+}
+.calibre3 {
+  height: auto;
+  width: auto;
+}
+.calibre4 {
+  display: block;
+  font-size: 1.29167em;
+  line-height: 1.2;
+  margin-bottom: 0;
+  margin-left: 5pt;
+  margin-right: 5pt;
+  margin-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+.calibre5 {
+  line-height: 1.2;
+  text-decoration: none;
+}
+.calibre6 {
+  font-style: italic;
+}
+.calibre7 {
+  font-weight: bold;
+}
+.calibre8 {
+  font-size: 1em;
+}
+.caption {
+  display: block;
+  font-size: 0.77419em;
+  margin-bottom: 0.5em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.5em;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-bottom: 1.5em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 2em;
+  text-align: center;
+}
+.centera {
+  border-bottom-color: currentColor;
+  border-bottom-style: solid;
+  border-bottom-width: 0.1em;
+  display: block;
+  font-family: "Times New Roman", serif;
+  font-size: 0.77419em;
+  margin-bottom: 0.2em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 2em;
+  text-align: center;
+}
+.centerb {
+  display: block;
+  font-family: "Times New Roman", serif;
+  font-size: 0.77419em;
+  margin-bottom: 2em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.2em;
+  text-align: center;
+}
+.copyright {
+  display: block;
+  font-family: "Times New Roman", serif;
+  font-size: 0.77419em;
+  margin-bottom: 0.01em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.01em;
+  text-align: justify;
+}
+.copyrightt {
+  display: block;
+  font-family: "Times New Roman", serif;
+  font-size: 0.77419em;
+  margin-bottom: 0.25em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1.5em;
+  text-align: justify;
+}
+.copyrightx {
+  display: block;
+  font-family: "Times New Roman", serif;
+  font-size: 0.77419em;
+  margin-bottom: 0.25em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 2.5em;
+  text-align: justify;
+}
+.h {
+  display: block;
+  font-family: "Times New Roman", serif;
+  font-size: 1.29032em;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 0.1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1.5em;
+  text-align: center;
+}
+.h1 {
+  display: block;
+  font-family: "Times New Roman", serif;
+  font-size: 1.54839em;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.5em;
+  text-align: center;
+}
+.h2 {
+  display: block;
+  font-family: "Times New Roman", serif;
+  font-size: 1em;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-bottom: 0.1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1.5em;
+  text-align: center;
+}
+.h3 {
+  display: block;
+  font-family: "Times New Roman", serif;
+  font-size: 1em;
+  line-height: 1.2;
+  margin-bottom: 0.2em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.5em;
+  text-align: center;
+}
+.h3b {
+  display: block;
+  font-family: "Times New Roman", serif;
+  font-size: 1em;
+  line-height: 1.2;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.5em;
+  text-align: center;
+}
+.image {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.15em;
+  text-align: center;
+}
+.image1 {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: center;
+}
+.imagec {
+  display: block;
+  margin-bottom: 0.25em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.2em;
+  text-align: center;
+}
+.imagepub {
+  height: auto;
+  max-width: 100%;
+  width: auto;
+}
+.indent {
+  display: block;
+  font-size: 0.77419em;
+  margin-bottom: 0.3em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.2em;
+  text-align: justify;
+  text-indent: 1em;
+}
+.indentb {
+  display: block;
+  font-size: 0.77419em;
+  margin-bottom: 0.5em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.2em;
+  text-align: justify;
+  text-indent: 1em;
+}
+.indenthanging {
+  display: block;
+  font-size: 0.77419em;
+  margin-bottom: 0.3em;
+  margin-left: 2em;
+  margin-right: 0;
+  margin-top: 0.5em;
+  text-indent: -0.8em;
+}
+.indenthanging1 {
+  display: block;
+  font-size: 0.77419em;
+  margin-bottom: 0.3em;
+  margin-left: 4.5em;
+  margin-right: 0;
+  margin-top: 0.3em;
+  text-indent: -1.5em;
+}
+.noindent {
+  display: block;
+  font-size: 0.77419em;
+  margin-bottom: 0.3em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: justify;
+}
+.noindenta {
+  display: block;
+  font-family: "Times New Roman", serif;
+  font-size: 0.77419em;
+  margin-bottom: 0.5em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.5em;
+  text-align: justify;
+}
+.noindentt {
+  display: block;
+  font-family: "Times New Roman", serif;
+  font-size: 0.77419em;
+  margin-bottom: 0.2em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-align: justify;
+}
+.publisher {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 5em;
+  text-align: center;
+}
+.tocback {
+  display: block;
+  font-size: 0.77419em;
+  margin-bottom: 0.3em;
+  margin-left: 1.5em;
+  margin-right: 0;
+  margin-top: 1.2em;
+}
+.tocchap {
+  display: block;
+  font-size: 0.77419em;
+  margin-bottom: 0.5em;
+  margin-left: 1em;
+  margin-right: 0;
+  margin-top: 0.5em;
+}
+.tocchap1 {
+  display: block;
+  font-size: 0.77419em;
+  margin-bottom: 0.5em;
+  margin-left: 0.5em;
+  margin-right: 0;
+  margin-top: 0.5em;
+}
+.tocfront {
+  display: block;
+  font-size: 0.77419em;
+  margin-bottom: 0.8em;
+  margin-left: 2em;
+  margin-right: 0;
+  margin-top: 0.8em;
+}
+.tocpart {
+  display: block;
+  font-size: 0.77419em;
+  margin-bottom: 0.3em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.8em;
+  text-align: center;
+}
